@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.murilo.intent"
+    namespace = "com.yuri.intent"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.murilo.intent"
+        applicationId = "com.yuri.intent"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

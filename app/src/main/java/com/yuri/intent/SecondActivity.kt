@@ -1,4 +1,4 @@
-package com.murilo.intent
+package com.yuri.intent
 
 import android.os.Bundle
 import android.widget.Button

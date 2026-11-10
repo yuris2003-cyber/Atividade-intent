@@ -1,4 +1,4 @@
-package com.murilo.intent
+package com.yuri.intent
 
 import org.junit.Test
 
